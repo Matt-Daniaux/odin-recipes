@@ -1,9 +1,16 @@
+* {
+    color: white;
+}
 body {
-    background-color: rgba(76, 53, 19, 0.873);
+    background-color: rgb(23, 24, 46);
 }
 
 img {
     height: 700px;
     width: auto;
+}
+
+.flash {
+    color: rgb(208, 162, 45);
 }
 
