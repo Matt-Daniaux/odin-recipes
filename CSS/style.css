@@ -10,7 +10,23 @@ img {
     width: auto;
 }
 
+a {
+    color:rgb(208, 162, 45);
+}
+
 .flash {
     color: rgb(208, 162, 45);
+}
+
+.box {
+    display: flex;
+}
+
+.box2 {
+    margin: 2px;
+    padding: 10px;
+    border: 3px solid rgb(82, 56, 24);
+    background-color: rgba(79, 24, 24, 0.837);
+    list-style-type: none;
 }
 
